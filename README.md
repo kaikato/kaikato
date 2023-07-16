@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there!👋
 
+My name is Kai and I am a master's student in computer science at Stanford University! 
 <!--
 **kaikato/kaikato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
