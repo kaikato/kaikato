@@ -1,4 +1,4 @@
-- name: @dailydotdev/devcard
+name: @dailydotdev/devcard
   # You may pin to the exact commit or the version.
   # uses: dailydotdev/action-devcard@07bed7718f1db1fbe2d96fe676a5f031d343ce4c
   uses: dailydotdev/action-devcard@2.1.0
