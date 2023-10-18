@@ -1,6 +1,6 @@
 ### Hi there!👋
 
-My name is Kai and I am a software engineer at LMNT. I received my master's degree in computer science at Stanford University.
+My name is Kai and I am a software engineer at LMNT.
 <!--
 **kaikato/kaikato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
